@@ -21,5 +21,4 @@
   
   ### Introduction
 Welcome to my data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world problems with statistical methods and machine learning models. My projects are demoed in jupyter notebook. Jupyter notebook is an excellent way to share my work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
-
 My project collection covers various data analysis and machine learning concepts.
