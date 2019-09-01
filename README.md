@@ -4,21 +4,14 @@
   </a>
 </p>
 
-## Table of Contents
-- [Introduction](#introduction)
+- Introduction
 
-- [Data Analysis]
-  - [A Visual History of Nobel Prize Winners]
-  - [Dr. Semmelweis and the Discovery of Handwashing]
-  - [The Android App Market on Google Play]
-  
-- [Machine Learning]
-  - [MNIST Dataset: Digit Recognizer]
-  - [Predicting Credit Card Approvals]
-  - [Give Life: Predict Blood Donations]
-  - [Naïve Bees: Deep Learning with Images]
-  
-  
-  ### Introduction
-Welcome to my data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world problems with statistical methods and machine learning models. My projects are demoed in jupyter notebook. Jupyter notebook is an excellent way to share my work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well.
-My project collection covers various data analysis and machine learning concepts.
+Welcome to my data science project portfolio. In my repo, you can find awesome and practical solutions to some of the real world problems with statistical methods and machine learning models. My projects are demoed in jupyter notebook. Jupyter notebook is an excellent way to share my work with the world. It comes with markdown and interactive python environment and it is portable to other platforms like Databricks and Google Colaboratory as well. My project collection covers various machine learning concepts.
+
+- [MNIST Dataset: Digit Recognizer](https://github.com/Hilel93/DataSciencePortfolio/blob/master/MNIST.ipynb)
+
+- [Predicting Credit Card Approvals](https://github.com/Hilel93/DataSciencePortfolio/blob/master/CreditCardApproval.ipynb)
+
+- [Give Life: Predict Blood Donations](https://github.com/Hilel93/DataSciencePortfolio/blob/master/Give%20Life_%20Predict%20Blood%20Donations.ipynb)
+
+- [Naïve Bees: Deep Learning with Images](https://github.com/Hilel93/DataSciencePortfolio/blob/master/Na%C3%AFve%20Bees_%20Deep%20Learning%20with%20Images.ipynb)
